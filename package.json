@@ -4,17 +4,17 @@
     "email": "soporte@imaginacolombia.com"
   },
   "bugs": {
-    "url": "https://github.com/imagina/n8n-nodex-iwhatsapp/issues"
+    "url": "https://github.com/imagina/n8n-nodes-iwhatsapp/issues"
   },
   "bundleDependencies": false,
   "deprecated": false,
   "description": "Community node for N8N",
-  "homepage": "https://github.com/imagina/n8n-nodex-iwhatsapp#readme",
+  "homepage": "https://github.com/imagina/n8n-nodes-iwhatsapp#readme",
   "keywords": [
     "quasar",
     "laravel",
     "asgardcms",
-    "n8n-nodex-iwhatsapp",
+    "n8n-nodes-iwhatsapp",
     "n8n-community-node-package"
   ],
   "license": "MIT",
@@ -22,7 +22,7 @@
   "name": "@imagina/n8n-nodes-iwhatsapp",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/imagina/n8n-nodex-iwhatsapp.git"
+    "url": "git+https://github.com/imagina/n8n-nodes-iwhatsapp.git"
   },
   "scripts": {
     "build": "tsc && gulp build:icons",
