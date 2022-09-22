@@ -3,10 +3,10 @@ import { INodeType, INodeTypeDescription } from 'n8n-workflow';
 import { messageFields, messageTypeFields } from './MessagesDescription';
 import { mediaFields, mediaTypeFields } from './MediaDescription';
 
-export class WhatsApp implements INodeType {
+export class Iwhatsapp implements INodeType {
 	description: INodeTypeDescription = {
 		displayName: 'WhatsApp Business Cloud',
-		name: 'whatsApp',
+		name: 'iwhatsapp',
 		icon: 'file:whatsapp.svg',
 		group: ['output'],
 		version: 1,
